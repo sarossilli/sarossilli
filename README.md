@@ -11,13 +11,13 @@ Im a budding **Systems Engineer** and **Data Enthusiest**, who is obsessed with 
 ### Tools 🛠️
 - Know/Using
 
- [<img src="https://github.com/sarossilli/sarossilli/tree/master/img/git.png" alt="git logo" width="32">](https://git-scm.com/) [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/https://github.com/sarossilli/sarossilli/tree/master/img/vscode.png" alt="vscode logo" width="32">](https://code.visualstudio.com/) [<img src="https://github.com/sarossilli/sarossilli/tree/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="32">](https://jupyter.org/) [<img src="https://github.com/sarossilli/sarossilli/tree/master/img/gnu_make.png" alt="gnu make logo" width="32">](https://www.gnu.org/software/make/manual/make.html)
+ [<img src="ttps://raw.githubusercontent.com/sarossilli/sarossilli/tree/master/img/git.png" alt="git logo" width="32">](https://git-scm.com/) [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/ttps://raw.githubusercontent.com/sarossilli/sarossilli/tree/master/img/vscode.png" alt="vscode logo" width="32">](https://code.visualstudio.com/) [<img src="ttps://raw.githubusercontent.com/sarossilli/sarossilli/tree/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="32">](https://jupyter.org/) [<img src="ttps://raw.githubusercontent.com/sarossilli/sarossilli/tree/master/img/gnu_make.png" alt="gnu make logo" width="32">](https://www.gnu.org/software/make/manual/make.html)
 
 - Learning
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="32">](https://kubernetes.io/) [<img src="https://github.com/sarossilli/sarossilli/tree/master/img/aws.png" alt="aws logo" width="32">](https://aws.amazon.com/)
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="32">](https://kubernetes.io/) [<img src="ttps://raw.githubusercontent.com/sarossilli/sarossilli/tree/master/img/aws.png" alt="aws logo" width="32">](https://aws.amazon.com/)
 
 ### Other Accounts 📫
 You can find and get touch with me on these accounts!
 
- [<img src="https://github.com/sarossilli/sarossilli/tree/master/img/gmail.png" alt="email logo" width="32">](mailto:sarossilli@gmail.com) [<img src="https://github.com/sarossilli/sarossilli/tree/master/img/github.png" alt="github logo" width="32">](https://github.com/sarossilli) [<img src="https://github.com/sarossilli/sarossilli/tree/master/img/linkedin.png" alt="linkedin logo" width="32">](https://www.linkedin.com/in/sarossilli/)
+ [<img src="ttps://raw.githubusercontent.com/sarossilli/sarossilli/tree/master/img/gmail.png" alt="email logo" width="32">](mailto:sarossilli@gmail.com) [<img src="ttps://raw.githubusercontent.com/sarossilli/sarossilli/tree/master/img/github.png" alt="github logo" width="32">](ttps://raw.githubusercontent.com/sarossilli) [<img src="ttps://raw.githubusercontent.com/sarossilli/sarossilli/tree/master/img/linkedin.png" alt="linkedin logo" width="32">](https://www.linkedin.com/in/sarossilli/)
