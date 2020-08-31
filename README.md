@@ -18,7 +18,7 @@ I'm Sam Rossilli from Colorado. Im an aspiring data and systems engineer!
 
 - Know/Using
 
-| [<img src="https://raw.githubusercontent.com/sarossilli/sarossilli/master/img/git.png" alt="git logo" width="32">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="32">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/sarossilli/sarossilli/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="32">](https://jupyter.org/)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gnu_make.png" alt="gnu make logo" width="24">](https://www.gnu.org/software/make/manual/make.html)| Windows Terminal | many more...
+| [<img src="img/git.png" alt="git logo" width="32">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="32">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/sarossilli/sarossilli/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="32">](https://jupyter.org/)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gnu_make.png" alt="gnu make logo" width="24">](https://www.gnu.org/software/make/manual/make.html)| Windows Terminal | many more...
 
 
 - Learning
