@@ -9,9 +9,9 @@ Im a budding **Systems Engineer** and **Data Enthusiast**, who is obsessed with 
 
 ### Tools 🛠️
 
- [<img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/git.png" alt="git logo" width="32">](https://git-scm.com/) [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="32">](https://code.visualstudio.com/) [<img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="32">](https://jupyter.org/) [<img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/gnu_make.png" alt="gnu make logo" width="32">](https://www.gnu.org/software/make/manual/
+ [<img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/git.png" alt="git logo" width="32">](https://git-scm.com/) [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="32">](https://code.visualstudio.com/) [<img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="32">](https://jupyter.org/) [<img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/gnu_make.png" alt="gnu make logo" width="32">](https://www.gnu.org/software/make/manual/)
 
 ### Other Accounts 📫
-You can  get touch with me on these accounts
+You can get touch with me on these accounts:
 
  [<img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/gmail.png" alt="email logo" width="32">](mailto:sarossilli@gmail.com) [<img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/github.png" alt="github logo" width="32">](https://github.com/sarossilli) [<img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/linkedin.png" alt="linkedin logo" width="32">](https://www.linkedin.com/in/sarossilli/)
