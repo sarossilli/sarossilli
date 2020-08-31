@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Sam Rossilli from Colorado.
+I'm Sam Rossilli from Colorado. Im an aspiring data and systems engineer!
 
 ### Programming Languages 🌐
 
 - Know/Using
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="32">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c logo" width="32">](http://www.open-std.org/jtc1/sc22/wg14/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="32">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="32">](https://www.gnu.org/software/bash/)  |
+|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="32">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="32">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c logo" width="32">](http://www.open-std.org/jtc1/sc22/wg14/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="32">](https://www.gnu.org/software/bash/)  |
 
 
 - Learning
@@ -30,7 +30,4 @@ I'm Sam Rossilli from Colorado.
 
 You can find and get touch with me on these accounts!
 
-| [<img src="https://raw.githubusercontent.com/sarossilli/sarossilli/master/img/github.png" alt="github logo" width="34">](https://github.com/sarossilli) | [<img src="https://raw.githubusercontent.com/sarossilli/sarossilli/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/sarossilli/) | [<img src="https://raw.githubusercontent.com/sarossilli/sarossilli/master/img/reddit.jpg" alt="reddit logo" width="24">](https://www.reddit.com/user/sarossilli)
-|---|---|---|---|---|---|---|---|
-
----
+| [<img src="https://raw.githubusercontent.com/sarossilli/sarossilli/master/img/gmail.png" alt="github logo" width="34">](mailto:sarossilli@gmail.com) | [<img src="https://raw.githubusercontent.com/sarossilli/sarossilli/master/img/github.png" alt="github logo" width="34">](https://github.com/sarossilli) | [<img src="https://raw.githubusercontent.com/sarossilli/sarossilli/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/sarossilli/) | [<img src="https://raw.githubusercontent.com/sarossilli/sarossilli/master/img/linkedin.png" alt="github logo" width="34">](https://www.linkedin.com/in/sarossilli/) |
