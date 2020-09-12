@@ -1,6 +1,6 @@
-### Hi there 👋
+[<img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/header.gif" alt="Header">]() 
 
-I'm Sam Rossilli. Im a 3rd year student at **University of Colorado: Colorado Springs** Studying **Data Analytics and Systems Engineering.** 
+Im a 3rd year student at **University of Colorado: Colorado Springs** Studying **Data Analytics and Systems Engineering.** 
 Im a budding **Systems Engineer** and **Data Enthusiast**, who is obsessed with the idea of *improving systems* and *solving challenging problems* with the help of data. 
 
 ### Programming Languages 🌐
