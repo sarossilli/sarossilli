@@ -3,7 +3,7 @@
 I'm a 3rd year student at the **University of Colorado: Colorado Springs** Studying **Data Analytics and Systems Engineering.** 
 I'm a budding **Systems Engineer** and **Data Enthusiast**, who is obsessed with the idea of *improving systems* and *solving challenging problems* with the help of data. 
 
-### Programming Languages 🌐
+## Programming Languages 🌐
 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="32">](https://www.python.org/) Python
 
@@ -19,7 +19,9 @@ I'm a budding **Systems Engineer** and **Data Enthusiast**, who is obsessed with
 
 [<img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/scikit.png" alt="scikit logo" width="48">](https://scikit-learn.org/stable/index.html) Scikit Learn
 
-### Tools 🛠️
+<br>
+
+## Tools 🛠️
 
 [<img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/git.png" alt="git logo" width="32">](https://git-scm.com/) Git
 
