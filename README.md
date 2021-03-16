@@ -1,5 +1,5 @@
 I'm a 3rd year student at the **University of Colorado: Colorado Springs** Studying **Data Analytics and Systems Engineering.** 
-I'm a budding **Systems Engineer** and **Data Enthusiast**, who is obsessed with the idea of *improving systems* and *solving challenging problems* with the help of data. 
+I'm a budding **Systems Engineer** and **Data Enthusiast**. 
 
 ## Programming Languages 🌐
 
