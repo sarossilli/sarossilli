@@ -1,6 +1,8 @@
 I'm a 3rd year student at the **University of Colorado: Colorado Springs** Studying **Data Analytics and Systems Engineering.** 
 I'm a budding **Systems Engineer** and **Data Enthusiast**. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarossilli&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Programming Languages 🌐
 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="32">](https://www.python.org/) Python
