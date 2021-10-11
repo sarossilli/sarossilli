@@ -1,5 +1,5 @@
 I'm a 4th year student at the **University of Colorado: Colorado Springs** Studying **Data Analytics and Systems Engineering.** 
-I'm a budding **Systems Engineer** and **Data Enthusiast**. 
+I'm a budding **Engineer** and **Data Enthusiast**. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarossilli&hide=issues&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarossilli&hide=jupyter%20notebook&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
