@@ -35,6 +35,6 @@ I'm a budding **Engineer** and **Data Enthusiast**.
 [<img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/eclipse.png" alt="eclipse logo" width="32">](https://www.eclipse.org/) Elcipse
 
 ### Other Accounts 📫
-You can get touch with me on these accounts:
+You can get in touch with me on these accounts:
 
 [<img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/gmail.png" alt="email logo" width="32">](mailto:sarossilli@gmail.com) [<img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/github.png" alt="github logo" width="32">](https://github.com/sarossilli) [<img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/linkedin.png" alt="linkedin logo" width="32">](https://www.linkedin.com/in/sarossilli/)
