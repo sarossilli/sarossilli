@@ -1,5 +1,6 @@
-I'm a 4th year student at the **University of Colorado: Colorado Springs** Studying **Data Analytics and Systems Engineering.** 
-I'm a budding **Software Engineer** and **Data Enthusiast**. 
+I'm currently a Software Enginner at Amazon.
+I'm a budding **Software Engineer** and **Data Enthusiast** and a graduate of **The University of Colorado: Colorado Springs** with a B.S. in **Data Analytics and Systems Engineering.** 
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sarossilli&theme=calm&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarossilli&hide=issues&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
@@ -7,7 +8,9 @@ I'm a budding **Software Engineer** and **Data Enthusiast**.
 
 ## Programming Languages and Libraries🌐
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="32">](https://www.python.org/) Python
+[<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="python logo" width="32">](https://www.python.org/) Javascript
+
+[<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python logo" width="32">](https://www.python.org/) Python
 
 [<img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/elephant.png" alt="PostgreSQL" width="32">](https://www.postgresql.org/) PostgreSQL
 
@@ -24,6 +27,8 @@ I'm a budding **Software Engineer** and **Data Enthusiast**.
 <br>
 
 ## Tools 🛠️
+
+[<img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/aws.png" alt="aws logo" width="32">](https://aws.com/) AWS
 
 [<img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/git.png" alt="git logo" width="32">](https://git-scm.com/) Git
 
