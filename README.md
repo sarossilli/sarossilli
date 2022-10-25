@@ -8,7 +8,7 @@ I'm a budding **Software Engineer** and **Data Enthusiast** and a graduate of **
 
 ## Programming Languages and Libraries🌐
 
-[<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="python logo" width="32">](https://www.python.org/) Javascript
+[<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="python logo" width="32">](https://www.javascript.com/) Javascript
 
 [<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python logo" width="32">](https://www.python.org/) Python
 
