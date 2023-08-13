@@ -1,4 +1,4 @@
-I'm currently a Software Enginner at Amazon.
+I'm currently a Software Engineer at Amazon.
 I'm a budding **Software Engineer** and **Data Enthusiast** and a graduate of **The University of Colorado: Colorado Springs** with a B.S. in **Data Analytics and Systems Engineering.** 
 
 
@@ -14,13 +14,13 @@ I'm a budding **Software Engineer** and **Data Enthusiast** and a graduate of **
 
 [<img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/elephant.png" alt="PostgreSQL" width="32">](https://www.postgresql.org/) PostgreSQL
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="32">](https://isocpp.org/) C++
+[<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="cpp logo" width="32">](https://isocpp.org/) C++
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java logo" width="32">](https://www.java.com/) Java
+[<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java logo" width="32">](https://www.java.com/) Java
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c logo" width="32">](http://www.open-std.org/jtc1/sc22/wg14/) C
+[<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="c logo" width="32">](http://www.open-std.org/jtc1/sc22/wg14/) C
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="32">](https://www.gnu.org/software/bash/) Bash
+[<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="bash logo" width="32">](https://www.gnu.org/software/bash/) Bash
 
 [<img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/scikit.png" alt="scikit logo" width="48">](https://scikit-learn.org/stable/index.html) Scikit Learn
 
