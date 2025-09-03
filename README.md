@@ -1,4 +1,4 @@
-I'm currently a Software Engineer at Amazon.
+I'm currently a Software Engineer.
 I'm a budding **Software Engineer** and **Data Enthusiast** and a graduate of **The University of Colorado: Colorado Springs** with a B.S. in **Data Analytics and Systems Engineering.** 
 
 
